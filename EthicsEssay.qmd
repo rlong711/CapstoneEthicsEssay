@@ -24,23 +24,4 @@ number-sections: true
 editor: visual
 ---
 
-## Quarto
-
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
-
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+	In the early years of the spread of social networking applications, various companies positioned their products as the sort of next frontier of human connection and interaction. Early social networking companies such as Facebook, Myspace, Friendster, and Six Degrees (cite these websites) positioned their platforms as a key facet in a tech-forward Utopian society where humans were able to connect with each other and spread information and cultural understandings on an unprecedented scale. In reality, it feels for the average person as if these companies opened up a sort of Pandora's box that is increasingly harming and dividing communities across the globe. Facebook and by extension Meta social networking apps in particular serves a useful example of this idea where users in real time observe the reality that hateful and extreme rhetoric and imagery not only exist but thrive on the platform. After calls for the regulation of content on these sites, Meta created a seemingly robust system for content moderation. This system includes the work of real, human content moderators who go through flagged content to determine if the image and or speech violates Meta guidelines that pertain to the distribution and boosting of violent and hateful content. These content moderators are so crucial to Meta’s work to remove harmful content online that Meta’s Code of Conduct cites them as an integral part of ensuring that they maintain a level of ethical integrity when it comes to what they as a company allow on their platform. (Meta Code of Conduct citation here, 30 ) For many social networking sites, this sort of content moderation became a standard across the industry, and there is emerging scholarship and investigative pieces surrounding the harm done to the individuals employed to sift through the most toxic content on these sites. This manifested for Meta in the form of three lawsuits from surrounding their African-language content moderation team based in Kenya that focus on accusing Meta of unlawful labor practices, a lack of meaningful support for content moderators sifting harmful content, and amplifying violence in Ethiopia during a recent civil conflict in primarily the Tigray region. Unlike Meta’s legal counsel, this investigation is not concerned with Meta’s legal responsibility to these plaintiffs. Rather, this investigation hopes to highlight the ways in which Meta failed and continues to fail to uphold their own ethical standards as outlined in their publicly available code of conduct. (reference code here) Meta’s amplification of hate speech and violence is in direct contradiction with their ethical code, and Meta’s refusal to take meaningful accountability for the harm done to these content moderators goes against the responsibilities Meta has to their personnel and to respecting foreign sovereignty as outlined in their code of conduct. It is through the obscurification of the labor of content moderators and the blaming of ‘contractors’ that Meta works to discard their ethical responsbility.  
